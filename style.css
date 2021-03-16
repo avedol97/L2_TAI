@@ -2,7 +2,6 @@ html{
     scroll-behavior: smooth;
 }
 
-
 body {
     width: 100%;
     background: cadetblue !important;
@@ -21,7 +20,6 @@ body {
     height: 30px;
     background-color: darkslategrey;
     color: white;
-
 }
 
 .navbar {
